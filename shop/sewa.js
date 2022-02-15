@@ -3,21 +3,16 @@ return `「 *PRICE LIST* 」
 							
 ⬣ PRICE SEWABOT
 
-⬡ Permanen+User Prem=7k
+5k 2 minggu
+10k 1 bulan+
 
-⬣ RULES:
+12 1 bulan+Prem
 
-⬡ Setelah Bot Online 
-  Berilah Jeda 30 detik setelah menggunakan command
-
-⬣ PRICE JADIBOT
-
-⬡ JADI BOT PERMANEN 25K
+15 Manent+Prem
 
 
 ⬣ MINAT? PM
-⬡ wa.me/6285803583481
-
+⬡ wa.me/6283159252524
 
 NOTE : 
 Bot On 24 Jam Karna Di Run Menggunakan Heroku
